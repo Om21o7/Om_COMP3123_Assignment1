@@ -1,5 +1,5 @@
 const express = require("express");
-const Employee = require("../models/employee"); // Ensure you have this model defined
+const Employee = require("../api/models/employee"); // Ensure you have this model defined
 
 const routes = express.Router();
 
