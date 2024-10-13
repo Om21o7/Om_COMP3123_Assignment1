@@ -14,5 +14,4 @@
     "express-validator": "^7.2.0",
     "mongoose": "^8.7.1"
   }
-  
 }
